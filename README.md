@@ -34,5 +34,6 @@ This project is open-source and free to use. You may modify and distribute with 
 
 ##Contact
 Author: Sunil Chandra Joshi
-Email : suniljoshi6360@gmail.com
-[LinkedIn](https://www.linkedin.com/in/suniljoshi2003) / [GitHub](https://github.com/Suniljoshi-2003)
+* Email : suniljoshi6360@gmail.com
+
+* [LinkedIn](https://www.linkedin.com/in/suniljoshi2003) / [GitHub](https://github.com/Suniljoshi-2003)
