@@ -29,12 +29,10 @@ Status: Paid 20% | Unpaid 80%
 --
 
 License
-This project is open-source and free to use. You may modify and distribute with attribution.
+This project is open-source and free to use. You may modify and distribute with attribution..
+--
 
-Contributing
-Pull requests are welcome. For major changes, please open an issue to discuss what you’d like to change.
-
-Contact
-Author: Your Name
-Email: your.email@example.com
-LinkedIn/GitHub: your-profile
+##Contact
+Author: Sunil Chandra Joshi
+Email : suniljoshi6360@gmail.com
+[LinkedIn](https://www.linkedin.com/in/suniljoshi2003) / [GitHub](https://github.com/Suniljoshi-2003)
