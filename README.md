@@ -24,11 +24,7 @@ Total: ₹91,900
 
 Status: Paid 20% | Unpaid 80%
 (Add your screenshot below)
-![Payment Tracker Dashboard](images/payment this Repository
-
-payment-tracker.xlsx (or .gsheet link instructions)
-
-images/payment-tracker.png (dashboard screenshot)
+![Payment Tracker Dashboard](https://github.com/Suniljoshi-2003/Google-Sheet-Projects/blob/main/Payment%20tracker%20.png)
 
 --
 
